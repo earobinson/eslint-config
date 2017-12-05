@@ -1,0 +1,29 @@
+{
+  "name": "@ear/eslint-config",
+  "version": "1.0.0-alpha.1",
+  "private": false,
+  "description": "My eslint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earobinson/ear-lint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Edward Andrew Robinson <earobinson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earobinson/ear-lint/issues"
+  },
+  "homepage": "https://github.com/earobinson/ear-lint#readme",
+  "dependencies": {
+    "eslint": "^4.12.1"
+  },
+  "peerDependencies": {
+    "eslint": "4.x"
+}
+}
