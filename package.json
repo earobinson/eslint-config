@@ -1,6 +1,6 @@
 {
   "name": "@ear/eslint-config",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "private": false,
   "description": "My eslint rules",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/earobinson/ear-lint.git"
+    "url": "git+https://github.com/earobinson/esling-config.git"
   },
   "keywords": [
     "eslint"
@@ -17,9 +17,9 @@
   "author": "Edward Andrew Robinson <earobinson@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/earobinson/ear-lint/issues"
+    "url": "https://github.com/earobinson/esling-config/issues"
   },
-  "homepage": "https://github.com/earobinson/ear-lint#readme",
+  "homepage": "https://github.com/earobinson/esling-config#readme",
   "dependencies": {
     "eslint": "^4.12.1"
   },
