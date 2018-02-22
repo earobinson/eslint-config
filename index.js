@@ -30,6 +30,7 @@ module.exports = {
     'arrow-spacing': ['error'],
     'object-curly-spacing': ['error', 'always'],
     'space-in-parens': ['error', 'never'],
-    'func-names': ['error', 'always']
+    'func-names': ['error', 'always'],
+    'arrow-parens': ['error', 'always']
   }
 };
