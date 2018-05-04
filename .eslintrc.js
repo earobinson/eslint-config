@@ -6,5 +6,10 @@ module.exports = Object.assign(earLint, {
     'node': true,
     'mocha': true
   },
+
+  'parserOptions': {
+    'ecmaVersion': 2018
+  },
+
   'extends': 'eslint:recommended'
-})
+});
