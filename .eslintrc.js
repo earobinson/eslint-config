@@ -1,4 +1,4 @@
-const earLint = require('./index');
+const earLint = require('./index')
 
 module.exports = Object.assign(earLint, {
   'env': {
@@ -9,7 +9,5 @@ module.exports = Object.assign(earLint, {
 
   'parserOptions': {
     'ecmaVersion': 2018
-  },
-
-  'extends': 'eslint:recommended'
-});
+  }
+})
